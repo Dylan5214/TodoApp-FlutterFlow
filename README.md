@@ -1,7 +1,7 @@
-# Todo App - FlutterFlow
+# Todo
 
-A simple to-do app built with FlutterFlow and Firebase.
+A new Flutter project.
 
-## Features
+## Getting Started
 
-The user can create an account and add tasks that are saved on a database, and once completed it will be removed and added to a seperate page.
+FlutterFlow projects are built to run on the Flutter _stable_ release.
