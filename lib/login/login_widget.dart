@@ -694,7 +694,7 @@ class _LoginWidgetState extends State<LoginWidget>
                                               .asValidator(context),
                                         ),
                                       ),
-                                    ].divide(SizedBox(height: 12.0)),
+                                    ].divide(SizedBox(height: 13.0)),
                                   ),
                                 ),
                                 Form(
